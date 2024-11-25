@@ -95,11 +95,11 @@ html, body {
 }
 
 .icon--burger {
-	background: url("/image/burger.svg");
+	background: url("../image/burger.svg");
 }
 
 .icon--search {
-	background: url("/image/search.svg");
+	background: url("../image/search.svg");
 }
 
 .main__menu-tabs li {
@@ -166,15 +166,15 @@ html, body {
 }
 
 .icon--call {
-	background: url("/image/call.svg") no-repeat;
+	background: url("../image/call.svg") no-repeat;
 }
 
 .icon--chat {
-	background: url("/image/chat.svg") no-repeat;
+	background: url("../image/chat.svg") no-repeat;
 }
 
 .icon--profile {
-	background: url("/image/profile.svg") no-repeat;
+	background: url("../image/profile.svg") no-repeat;
 }
 
 .footer__menu-email{
