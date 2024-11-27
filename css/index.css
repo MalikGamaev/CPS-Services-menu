@@ -22,27 +22,6 @@
  }
  
  
- @font-face {
-	font-family: 'TT Lakes-Light';
-	src: url('../fonts/TTLakes-Light.eot');
-	src: local('TT Lakes Light'), local('TTLakes-Light'),
-		 url('../fonts/TTLakes-Light.eot?#iefix') format('embedded-opentype'),
-		 url('../fonts/TTLakes-Light.woff') format('woff'),
-		 url('../fonts/TTLakes-Light.ttf') format('truetype');
-	font-weight: 300;
-	font-style: normal;
- }
- 
- @font-face {
-	font-family: 'TT Lakes-Medium';
-	src: url('../fonts/TTLakes-Medium.eot');
-	src: local('TT Lakes Medium'), local('TTLakes-Medium'),
-		 url('../fonts/TTLakes-Medium.eot?#iefix') format('embedded-opentype'),
-		 url('../fonts/TTLakes-Medium.woff') format('woff'),
-		 url('../fonts/TTLakes-Medium.ttf') format('truetype');
-	font-weight: 500;
-	font-style: normal;
- }
 
 *, *::after, *::before {
 	box-sizing: border-box;
